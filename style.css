@@ -1,0 +1,65 @@
+.line{
+            background-color: beige;
+        }
+        #new{
+            font-family: cursive;
+        }
+        h1{
+            font-family: cursive;
+        }
+        .parent p{
+            color:crimson;
+        }
+        p:hover{
+            color:cyan
+        }
+        .border{
+            border: 2px solid black;
+            padding: 40px;
+            border-radius: 20px;
+            border-style: dotted;
+        }
+        .margin{
+            border: 3px solid black
+            padding: 20px;
+        }
+        .margin2{
+            border:3px solid black;
+            margin-top: 50px;
+        }
+        .position{
+            border:2px solid violet;
+        }
+        .relative{
+            position: relative;
+            top: 70px;
+            left: 60px;
+        }
+        .page{
+            height:100vh ;
+        
+        }
+        .sticky{
+            position: sticky;
+            top: 0;
+            font-size: xx-large;
+        }
+        .inline{
+            display:inline;
+        }
+        .flex-container{
+            display: flex;
+            flex-direction: row-reverse;
+
+        }
+        .item{
+            background-color:goldenrod ;
+            border: 2px solid brown;
+            height: 100px;
+            width: 100px;
+        }
+        .item2{
+
+        }
+
+        
